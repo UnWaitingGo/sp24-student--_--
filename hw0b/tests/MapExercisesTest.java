@@ -10,7 +10,7 @@ import java.util.Map;
 import static com.google.common.truth.Truth.assertThat;
 
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
-public class MapExercisesTest {
+public class  MapExercisesTest {
 
     @Test
     @Order(0)
